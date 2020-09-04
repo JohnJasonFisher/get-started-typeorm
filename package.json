@@ -1,0 +1,11 @@
+{
+  "name": "get-started-typeorm",
+  "version": "1.0.0",
+  "description": "An example express app using typeorm",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JohnJasonFisher",
+  "license": "ISC"
+}
