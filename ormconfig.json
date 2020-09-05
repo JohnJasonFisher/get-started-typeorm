@@ -5,7 +5,7 @@
     "username": "johnfisher",
     "password": "test",
     "database": "get_started_typeorm",
-    "entities": ["src/entities/*.js"],
+    "entities": ["dist/entities/*.js"],
     "logging": true,
     "synchronize": true
   }
