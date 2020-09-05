@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "johnfisher",
+    "password": "test",
+    "database": "get_started_typeorm",
+    "entities": ["src/entities/*.js"],
+    "logging": true,
+    "synchronize": true
+  }
